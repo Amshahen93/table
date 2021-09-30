@@ -23,7 +23,7 @@
     "@handsontable/angular": "^5.0.0",
     "angular-resizable-element": "^3.2.4",
     "core-js": "^2.5.4",
-    "handsontable": "^7.0.3",
+    "handsontable": "^10.0.0",
     "rxjs": "~6.2.0",
     "zone.js": "~0.8.26"
   },
